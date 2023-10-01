@@ -1,0 +1,18 @@
+.seconds {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1.17em;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+.buttons button {
+  margin-left: 5px;
+  padding: 5px;
+  background-color: ButtonFace;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
